@@ -153,6 +153,9 @@ h1{
         background-color: rgb(107, 138, 238);
         cursor: pointer;
     }
+    .addButton:hover{
+    opacity: 0.7;
+    }
     .removeAllButton{
         font-size: 20px;
         height: 45px;
